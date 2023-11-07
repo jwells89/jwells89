@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey, I'm John!
+
+At work, I specialize in native app development for iOS and Android. As a hobby, I develop apps and tools for macOS and tinker with a wide variety of things.
 
 <!--
 **jwells89/jwells89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
